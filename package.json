@@ -1,0 +1,23 @@
+{
+  "name": "keylogger-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/F13ND5/keylogger-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/F13ND5/keylogger-node/issues"
+  },
+  "homepage": "https://github.com/F13ND5/keylogger-node#readme",
+  "dependencies": {
+    "events": "^3.3.0",
+    "fs": "^0.0.1-security"
+  }
+}
